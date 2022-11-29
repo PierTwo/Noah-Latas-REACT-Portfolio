@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/noah-latas-react-portfolio/static/css/main.6bff29c7.css",
+    "main.js": "/noah-latas-react-portfolio/static/js/main.44b4a770.js",
+    "static/js/787.8323a64d.chunk.js": "/noah-latas-react-portfolio/static/js/787.8323a64d.chunk.js",
+    "static/media/profilePic.jpeg": "/noah-latas-react-portfolio/static/media/profilePic.a7db2332dc56e0ee5a19.jpeg",
+    "index.html": "/noah-latas-react-portfolio/index.html",
+    "main.6bff29c7.css.map": "/noah-latas-react-portfolio/static/css/main.6bff29c7.css.map",
+    "main.44b4a770.js.map": "/noah-latas-react-portfolio/static/js/main.44b4a770.js.map",
+    "787.8323a64d.chunk.js.map": "/noah-latas-react-portfolio/static/js/787.8323a64d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bff29c7.css",
+    "static/js/main.44b4a770.js"
+  ]
+}
